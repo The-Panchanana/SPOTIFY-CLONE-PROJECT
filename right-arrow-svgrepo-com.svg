@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    
+    <style type="text/css">
+        .bg { fill: #008000; } /* Green background */
+        .play { fill: #ffffff; } /* White play icon */
+    </style>
+
+    <!-- Green Circular Background -->
+    <circle class="bg" cx="12" cy="12" r="12"/>
+
+    <!-- Play Button Triangle -->
+    <path class="play" d="M8 5v14l11-7z"/>
+    
+</svg>
